@@ -151,7 +151,7 @@ elf = 'build/Semaforo.elf'
 ## 🎥 Imagens do Projeto
 
 ### 💿 Diagrama Visual do Projeto
-<p align="center"><img width="700" height="400" src=""></p>
+<p align="center"><img width="700" height="400" src="https://github.com/Erlon335/Temporizador-Periodico/blob/main/assets/Driagrama%20Semaforo.png"></p>
 
 ### 💿 Video Demonstrativo do Projeto
 
